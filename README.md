@@ -1,2 +1,2 @@
 # AuRED
-Authority Retrieval EviDence for rumor verification
+Authority Rumor EviDence Dataset (AuRED)
