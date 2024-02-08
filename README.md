@@ -3,7 +3,7 @@
 ## Content of this repository
 ## Rumors
 
-We provide AuRED data in a JSON format file. The file contains a list of JSON objects representing rumors. For each rumor, we provide the following entries:
+We provide AuRED and AuRED* data in JSON format fileS. Each file contains a list of JSON objects representing rumors. For each rumor, we provide the following entries:
 ```
 {
   id [unique ID for the rumor]
