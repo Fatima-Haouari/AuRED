@@ -21,16 +21,16 @@ Examples:
   "id": "AuRED_",
   "claim": ,
   "label": "REFUTES"
-  "timeline": ,
-  "evidence": 
+  "timeline": [[],[],[],......],
+  "evidence": [[],[]]
 },
 ...,
 {
   "id": "AuRED_",
   "claim": "" ,
   "label": "SUPPORTS",
-  "timeline": "بعد تعينه نائب رئيس الجمعية الدستورية القطرية الرئيس قيس سعيد يقسم اليمين امام صاحبة السمو الشيخة موزة المسند فى عاصمة #قطر الدوحة https://t.co/kCYFDQHYcS",
-  "evidence": "politics"
+  "timeline": [[],[],[],......],
+  "evidence": [[],[]]
 },
 ...
 
