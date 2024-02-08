@@ -33,6 +33,15 @@ Examples:
   "evidence": [[],[]]
 },
 ...
+{
+  "id": "AuRED_",
+  "claim": "" ,
+  "label": "NOT ENOUGH INFO",
+  "timeline": [[],[],[],......],
+  "evidence": []
+},
+
+...
 
 ```
 ## Rumors folds
