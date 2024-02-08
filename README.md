@@ -1,5 +1,4 @@
-# AuRED
-Authority Rumor EviDence Dataset (AuRED)
+# Authority Rumor EviDence Dataset (AuRED)
 
 ## Content of this repository
 ## Rumors
