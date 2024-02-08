@@ -7,7 +7,7 @@ We provide the rumors in a JSON format file. The file contains a list of JSON ob
 ```
 {
   id [unique ID for the rumor]
-  claim [rumor tweet text]
+  rumor [rumor tweet text]
   label [the veracity label of the rumor eithr SUPPORTS, REFUTES, NOT ENOUGH INFO]
   timeline [authorities timeline associated with the rumor each authority tweet is represented by authority Twitter account link, authority tweet ID, authority tweet text]
   evidence [authorities evidence tweets represented by authority Twitter account link, authority tweet ID, authority tweet text]
@@ -18,7 +18,7 @@ Examples:
 ```
 {
   "id": "AuRED_",
-  "claim": ,
+  "rumor": ,
   "label": "REFUTES"
   "timeline": [[],[],[],......],
   "evidence": [[],[]]
@@ -26,7 +26,7 @@ Examples:
 ...,
 {
   "id": "AuRED_",
-  "claim": "" ,
+  "rumor": "" ,
   "label": "SUPPORTS",
   "timeline": [[],[],[],......],
   "evidence": [[],[]]
@@ -34,7 +34,7 @@ Examples:
 ...
 {
   "id": "AuRED_",
-  "claim": "" ,
+  "rumor": "" ,
   "label": "NOT ENOUGH INFO",
   "timeline": [[],[],[],......],
   "evidence": []
