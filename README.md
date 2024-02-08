@@ -59,3 +59,6 @@ Examples:
 ```
 ## Rumors folds
 We provide the rumors 5 folds used in our experiments. Each fold file containing 32 rumors.
+
+## AuRED media
+[Link to media](https://drive.google.com/drive/folders/1UHRdlDx_QRxsu5ARJkgPVD2rFzTFX9Fd?usp=sharing)
